@@ -1,0 +1,6 @@
+print("Getting to know you") 
+name=input("what's your name:")
+food=input("what is your favorite food:")
+music= input("what is your favorite music:")
+address= input("where do you live?")
+print ("your name is " +name+ "," +food+ " is your favorite food, you like to listen to "+music+" and you live at "+address )
