@@ -1,0 +1,14 @@
+anime= input("your favorite anime:")
+if anime=="one piece":
+  print("i wil be the king of pirates")
+  favChar= input("who is your favorite charactehr?")
+  if favChar=="luffy":
+    print ("perfect")
+  elif favChar=="zoro":
+    print("good")
+  else:
+    print("go and re watch i")
+elif anime=="naruto":
+  print("this is the best all time")
+else:
+  print("i understand your point of view👌")
